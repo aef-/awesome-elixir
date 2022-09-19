@@ -227,6 +227,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [tty2048](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
 * [uai_shot](https://github.com/sergioaugrod/uai_shot) - A multiplayer ship game built with Elixir, Phoenix Framework and Phaser.
 * [workbench](https://github.com/fremantle-industries/workbench) - From Idea to Execution - Manage your trading operation across a globally distributed cluster.
+* [Caddishouse](https://github.com/caddishouse/reader) - A web-based document reader that connects to your cloud storage accounts. Uses Phoenix/LiveView.
 
 ## Artificial Intelligence
 *When your code becomes smarter than you.*
@@ -244,6 +245,8 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [erlaudio](https://github.com/asonge/erlaudio) - Erlang PortAudio bindings.
 * [firmata](https://github.com/entone/firmata) - This package implements the Firmata protocol.
 * [synthex](https://github.com/bitgamma/synthex) - A signal synthesis library.
+* [ex_jack](https://github.com/dulltools/ex_jack) - Elixir JACK bindings
+* [ex_alsa](https://github.com/dulltools/ex_alsa) - Elixir ALSA bindings
 
 ## Authentication
 *Libraries for implementing authentication schemes.*
